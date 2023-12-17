@@ -1,0 +1,11 @@
+.idea/
+target/
+*.iml
+.DS_Store
+__pycache__/
+.vscode/
+
+#runtime
+*.log
+zakupki_download/
+database/docker/db_zakupki

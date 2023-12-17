@@ -1,0 +1,821 @@
+[{
+        "name": "Российский рубль",
+        "code": "RUB",
+        "digitalCode": "643"
+    },
+    {
+        "name": "Евро",
+        "code": "EUR",
+        "digitalCode": "978"
+    },
+    {
+        "name": "Доллар США",
+        "code": "USD",
+        "digitalCode": "840"
+    },
+    {
+        "name": "Лек",
+        "code": "ALL",
+        "digitalCode": "008"
+    },
+    {
+        "name": "Алжирский динар",
+        "code": "DZD",
+        "digitalCode": "012"
+    },
+    {
+        "name": "Аргентинское песо",
+        "code": "ARS",
+        "digitalCode": "032"
+    },
+    {
+        "name": "Австралийский доллар",
+        "code": "AUD",
+        "digitalCode": "036"
+    },
+    {
+        "name": "Багамский доллар",
+        "code": "BSD",
+        "digitalCode": "044"
+    },
+    {
+        "name": "Бахрейнский динар",
+        "code": "BHD",
+        "digitalCode": "048"
+    },
+    {
+        "name": "Така",
+        "code": "BDT",
+        "digitalCode": "050"
+    },
+    {
+        "name": "Армянский драм",
+        "code": "AMD",
+        "digitalCode": "051"
+    },
+    {
+        "name": "Барбадосский доллар",
+        "code": "BBD",
+        "digitalCode": "052"
+    },
+    {
+        "name": "Бермудский доллар",
+        "code": "BMD",
+        "digitalCode": "060"
+    },
+    {
+        "name": "Нгултрум",
+        "code": "BTN",
+        "digitalCode": "064"
+    },
+    {
+        "name": "Боливиано",
+        "code": "BOB",
+        "digitalCode": "068"
+    },
+    {
+        "name": "Пула",
+        "code": "BWP",
+        "digitalCode": "072"
+    },
+    {
+        "name": "Белизский доллар",
+        "code": "BZD",
+        "digitalCode": "084"
+    },
+    {
+        "name": "Доллар Соломоновых Островов",
+        "code": "SBD",
+        "digitalCode": "090"
+    },
+    {
+        "name": "Брунейский доллар",
+        "code": "BND",
+        "digitalCode": "096"
+    },
+    {
+        "name": "Кьят",
+        "code": "MMK",
+        "digitalCode": "104"
+    },
+    {
+        "name": "Бурундийский франк",
+        "code": "BIF",
+        "digitalCode": "108"
+    },
+    {
+        "name": "Риель",
+        "code": "KHR",
+        "digitalCode": "116"
+    },
+    {
+        "name": "Канадский доллар",
+        "code": "CAD",
+        "digitalCode": "124"
+    },
+    {
+        "name": "Эскудо Кабо-Верде",
+        "code": "CVE",
+        "digitalCode": "132"
+    },
+    {
+        "name": "Доллар Островов Кайман",
+        "code": "KYD",
+        "digitalCode": "136"
+    },
+    {
+        "name": "Шри-Ланкийская рупия",
+        "code": "LKR",
+        "digitalCode": "144"
+    },
+    {
+        "name": "Чилийское песо",
+        "code": "CLР",
+        "digitalCode": "152"
+    },
+    {
+        "name": "Юань",
+        "code": "CNY",
+        "digitalCode": "156"
+    },
+    {
+        "name": "Колумбийское песо",
+        "code": "COP",
+        "digitalCode": "170"
+    },
+    {
+        "name": "Франк Комор",
+        "code": "KMF",
+        "digitalCode": "174"
+    },
+    {
+        "name": "Костариканский колон",
+        "code": "CRC",
+        "digitalCode": "188"
+    },
+    {
+        "name": "Хорватская куна",
+        "code": "HRK",
+        "digitalCode": "191"
+    },
+    {
+        "name": "Кубинское песо",
+        "code": "CUP",
+        "digitalCode": "192"
+    },
+    {
+        "name": "Чешская крона",
+        "code": "CZK",
+        "digitalCode": "203"
+    },
+    {
+        "name": "Датская крона",
+        "code": "DKK",
+        "digitalCode": "208"
+    },
+    {
+        "name": "Доминиканское песо",
+        "code": "DOP",
+        "digitalCode": "214"
+    },
+    {
+        "name": "Сальвадорский колон",
+        "code": "SVC",
+        "digitalCode": "222"
+    },
+    {
+        "name": "Эфиопский быр",
+        "code": "ETB",
+        "digitalCode": "230"
+    },
+    {
+        "name": "Накфа",
+        "code": "ERN",
+        "digitalCode": "232"
+    },
+    {
+        "name": "Крона",
+        "code": "EEK",
+        "digitalCode": "233"
+    },
+    {
+        "name": "Фунт Фолклендских островов",
+        "code": "FKP",
+        "digitalCode": "238"
+    },
+    {
+        "name": "Доллар Фиджи",
+        "code": "FJD",
+        "digitalCode": "242"
+    },
+    {
+        "name": "Франк Джибути",
+        "code": "DJF",
+        "digitalCode": "262"
+    },
+    {
+        "name": "Даласи",
+        "code": "GMD",
+        "digitalCode": "270"
+    },
+    {
+        "name": "Гибралтарский фунт",
+        "code": "GIP",
+        "digitalCode": "292"
+    },
+    {
+        "name": "Кетсаль",
+        "code": "GTQ",
+        "digitalCode": "320"
+    },
+    {
+        "name": "Гвинейский франк",
+        "code": "GNF",
+        "digitalCode": "324"
+    },
+    {
+        "name": "Гайанский доллар",
+        "code": "GYD",
+        "digitalCode": "328"
+    },
+    {
+        "name": "Гурд",
+        "code": "HTG",
+        "digitalCode": "332"
+    },
+    {
+        "name": "Лемпира",
+        "code": "HNL",
+        "digitalCode": "340"
+    },
+    {
+        "name": "Гонконгский доллар",
+        "code": "HKD",
+        "digitalCode": "344"
+    },
+    {
+        "name": "Форинт",
+        "code": "HUF",
+        "digitalCode": "348"
+    },
+    {
+        "name": "Исландская крона",
+        "code": "ISK",
+        "digitalCode": "352"
+    },
+    {
+        "name": "Дирхам (ОАЭ)",
+        "code": "AED",
+        "digitalCode": "784"
+    },
+    {
+        "name": "Афгани",
+        "code": "AFN",
+        "digitalCode": "971"
+    },
+    {
+        "name": "Нидерландский антильский гульден",
+        "code": "ANG",
+        "digitalCode": "532"
+    },
+    {
+        "name": "Кванза",
+        "code": "AOA",
+        "digitalCode": "973"
+    },
+    {
+        "name": "Арубанский гульден",
+        "code": "AWG",
+        "digitalCode": "533"
+    },
+    {
+        "name": "Азербайджанский манат",
+        "code": "AZN",
+        "digitalCode": "944"
+    },
+    {
+        "name": "Конвертируемая марка",
+        "code": "BAM",
+        "digitalCode": "977"
+    },
+    {
+        "name": "Болгарский лев",
+        "code": "BGN",
+        "digitalCode": "975"
+    },
+    {
+        "name": "Бразильский реал",
+        "code": "BRL",
+        "digitalCode": "986"
+    },
+    {
+        "name": "Белорусский рубль",
+        "code": "BYR",
+        "digitalCode": "974"
+    },
+    {
+        "name": "Конголезский франк",
+        "code": "CDF",
+        "digitalCode": "976"
+    },
+    {
+        "name": "Швейцарский франк",
+        "code": "CHF",
+        "digitalCode": "756"
+    },
+    {
+        "name": "Единица реальной стоимости",
+        "code": "COU",
+        "digitalCode": "970"
+    },
+    {
+        "name": "Конвертируемое песо",
+        "code": "CUC",
+        "digitalCode": "931"
+    },
+    {
+        "name": "Фунт стерлингов",
+        "code": "GBP",
+        "digitalCode": "826"
+    },
+    {
+        "name": "Лари",
+        "code": "GEL",
+        "digitalCode": "981"
+    },
+    {
+        "name": "Ганский седи",
+        "code": "GHS",
+        "digitalCode": "936"
+    },
+    {
+        "name": "Белорусский рубль",
+        "code": "BYN",
+        "digitalCode": "933"
+    },
+    {
+        "name": "Рупия",
+        "code": "IDR",
+        "digitalCode": "360"
+    },
+    {
+        "name": "Новый израильский шекель",
+        "code": "ILS",
+        "digitalCode": "376"
+    },
+    {
+        "name": "Индийская рупия",
+        "code": "INR",
+        "digitalCode": "356"
+    },
+    {
+        "name": "Иракский динар",
+        "code": "IQD",
+        "digitalCode": "368"
+    },
+    {
+        "name": "Иранский риал",
+        "code": "IRR",
+        "digitalCode": "364"
+    },
+    {
+        "name": "Ямайский доллар",
+        "code": "JMD",
+        "digitalCode": "388"
+    },
+    {
+        "name": "Иорданский динар",
+        "code": "JOD",
+        "digitalCode": "400"
+    },
+    {
+        "name": "Иена",
+        "code": "JPY",
+        "digitalCode": "392"
+    },
+    {
+        "name": "Кенийский шиллинг",
+        "code": "KES",
+        "digitalCode": "404"
+    },
+    {
+        "name": "Сом",
+        "code": "KGS",
+        "digitalCode": "417"
+    },
+    {
+        "name": "Северокорейская вона",
+        "code": "KPW",
+        "digitalCode": "408"
+    },
+    {
+        "name": "Вона",
+        "code": "KRW",
+        "digitalCode": "410"
+    },
+    {
+        "name": "Кувейтский динар",
+        "code": "KWD",
+        "digitalCode": "414"
+    },
+    {
+        "name": "Тенге",
+        "code": "KZT",
+        "digitalCode": "398"
+    },
+    {
+        "name": "Кип",
+        "code": "LAK",
+        "digitalCode": "418"
+    },
+    {
+        "name": "Ливанский фунт",
+        "code": "LBP",
+        "digitalCode": "422"
+    },
+    {
+        "name": "Либерийский доллар",
+        "code": "LRD",
+        "digitalCode": "430"
+    },
+    {
+        "name": "Лоти",
+        "code": "LSL",
+        "digitalCode": "426"
+    },
+    {
+        "name": "Литовский лит",
+        "code": "LTL",
+        "digitalCode": "440"
+    },
+    {
+        "name": "Латвийский лат",
+        "code": "LVL",
+        "digitalCode": "428"
+    },
+    {
+        "name": "Ливийский динар",
+        "code": "LYD",
+        "digitalCode": "434"
+    },
+    {
+        "name": "Марокканский дирхам",
+        "code": "MAD",
+        "digitalCode": "504"
+    },
+    {
+        "name": "Молдавский лей",
+        "code": "MDL",
+        "digitalCode": "498"
+    },
+    {
+        "name": "Малагасийский ариари",
+        "code": "MGA",
+        "digitalCode": "969"
+    },
+    {
+        "name": "Денар",
+        "code": "MKD",
+        "digitalCode": "807"
+    },
+    {
+        "name": "Тугрик",
+        "code": "MNT",
+        "digitalCode": "496"
+    },
+    {
+        "name": "Патака",
+        "code": "MOP",
+        "digitalCode": "446"
+    },
+    {
+        "name": "Угия",
+        "code": "MRO",
+        "digitalCode": "478"
+    },
+    {
+        "name": "Маврикийская рупия",
+        "code": "MUR",
+        "digitalCode": "480"
+    },
+    {
+        "name": "Руфия",
+        "code": "MVR",
+        "digitalCode": "462"
+    },
+    {
+        "name": "Квача",
+        "code": "MWK",
+        "digitalCode": "454"
+    },
+    {
+        "name": "Мексиканское песо",
+        "code": "MXN",
+        "digitalCode": "484"
+    },
+    {
+        "name": "Малайзийский ринггит",
+        "code": "MYR",
+        "digitalCode": "458"
+    },
+    {
+        "name": "Метикал",
+        "code": "MZN",
+        "digitalCode": "943"
+    },
+    {
+        "name": "Доллар Намибии",
+        "code": "NAD",
+        "digitalCode": "516"
+    },
+    {
+        "name": "Найра",
+        "code": "NGN",
+        "digitalCode": "566"
+    },
+    {
+        "name": "Золотая кордоба",
+        "code": "NIO",
+        "digitalCode": "558"
+    },
+    {
+        "name": "Норвежская крона",
+        "code": "NOK",
+        "digitalCode": "578"
+    },
+    {
+        "name": "Непальская рупия",
+        "code": "NPR",
+        "digitalCode": "524"
+    },
+    {
+        "name": "Новозеландский доллар",
+        "code": "NZD",
+        "digitalCode": "554"
+    },
+    {
+        "name": "Оманский риал",
+        "code": "OMR",
+        "digitalCode": "512"
+    },
+    {
+        "name": "Бальбоа",
+        "code": "PAB",
+        "digitalCode": "590"
+    },
+    {
+        "name": "Новый соль",
+        "code": "PEN",
+        "digitalCode": "604"
+    },
+    {
+        "name": "Кина",
+        "code": "PGK",
+        "digitalCode": "598"
+    },
+    {
+        "name": "Пакистанская рупия",
+        "code": "PKR",
+        "digitalCode": "586"
+    },
+    {
+        "name": "Злотый",
+        "code": "PLN",
+        "digitalCode": "985"
+    },
+    {
+        "name": "Гуарани",
+        "code": "PYG",
+        "digitalCode": "600"
+    },
+    {
+        "name": "Филиппинское песо",
+        "code": "PНP",
+        "digitalCode": "608"
+    },
+    {
+        "name": "Катарский риал",
+        "code": "QAR",
+        "digitalCode": "634"
+    },
+    {
+        "name": "Новый румынский лей",
+        "code": "RON",
+        "digitalCode": "946"
+    },
+    {
+        "name": "Сербский динар",
+        "code": "RSD",
+        "digitalCode": "941"
+    },
+    {
+        "name": "Франк Руанды",
+        "code": "RWF",
+        "digitalCode": "646"
+    },
+    {
+        "name": "Саудовский риял",
+        "code": "SAR",
+        "digitalCode": "682"
+    },
+    {
+        "name": "Сейшельская рупия",
+        "code": "SCR",
+        "digitalCode": "690"
+    },
+    {
+        "name": "Суданский фунт",
+        "code": "SDG",
+        "digitalCode": "938"
+    },
+    {
+        "name": "Шведская крона",
+        "code": "SEK",
+        "digitalCode": "752"
+    },
+    {
+        "name": "Сингапурский доллар",
+        "code": "SGD",
+        "digitalCode": "702"
+    },
+    {
+        "name": "Фунт Святой Елены.",
+        "code": "SHP",
+        "digitalCode": "654"
+    },
+    {
+        "name": "Леоне",
+        "code": "SLL",
+        "digitalCode": "694"
+    },
+    {
+        "name": "Сомалийский шиллинг",
+        "code": "SOS",
+        "digitalCode": "706"
+    },
+    {
+        "name": "Суринамский доллар",
+        "code": "SRD",
+        "digitalCode": "968"
+    },
+    {
+        "name": "Добра",
+        "code": "STD",
+        "digitalCode": "678"
+    },
+    {
+        "name": "Сирийский фунт",
+        "code": "SYP",
+        "digitalCode": "760"
+    },
+    {
+        "name": "Лилангени",
+        "code": "SZL",
+        "digitalCode": "748"
+    },
+    {
+        "name": "Бат",
+        "code": "THB",
+        "digitalCode": "764"
+    },
+    {
+        "name": "Сомони",
+        "code": "TJS",
+        "digitalCode": "972"
+    },
+    {
+        "name": "Новый туркменский манат",
+        "code": "TMT",
+        "digitalCode": "934"
+    },
+    {
+        "name": "Тунисский динар",
+        "code": "TND",
+        "digitalCode": "788"
+    },
+    {
+        "name": "Паанга",
+        "code": "TOP",
+        "digitalCode": "776"
+    },
+    {
+        "name": "Турецкая лира",
+        "code": "TRY",
+        "digitalCode": "949"
+    },
+    {
+        "name": "Доллар Тринидада и Тобаго",
+        "code": "TTD",
+        "digitalCode": "780"
+    },
+    {
+        "name": "Новый тайваньский доллар",
+        "code": "TWD",
+        "digitalCode": "901"
+    },
+    {
+        "name": "Танзанийский шиллинг",
+        "code": "TZS",
+        "digitalCode": "834"
+    },
+    {
+        "name": "Гривна",
+        "code": "UAH",
+        "digitalCode": "980"
+    },
+    {
+        "name": "Угандийский шиллинг",
+        "code": "UGX",
+        "digitalCode": "800"
+    },
+    {
+        "name": "Уругвайское песо в индексированных единицах",
+        "code": "UYI",
+        "digitalCode": "940"
+    },
+    {
+        "name": "Уругвайское песо",
+        "code": "UYU",
+        "digitalCode": "858"
+    },
+    {
+        "name": "Узбекский сум",
+        "code": "UZS",
+        "digitalCode": "860"
+    },
+    {
+        "name": "Боливар",
+        "code": "VEF",
+        "digitalCode": "937"
+    },
+    {
+        "name": "Донг",
+        "code": "VND",
+        "digitalCode": "704"
+    },
+    {
+        "name": "Вату",
+        "code": "VUV",
+        "digitalCode": "548"
+    },
+    {
+        "name": "Тала",
+        "code": "WST",
+        "digitalCode": "882"
+    },
+    {
+        "name": "Франк КФА ВЕАС",
+        "code": "XAF",
+        "digitalCode": "950"
+    },
+    {
+        "name": "Восточно-карибский доллар",
+        "code": "XCD",
+        "digitalCode": "951"
+    },
+    {
+        "name": "СДР (специальные права заимствования)",
+        "code": "XDR",
+        "digitalCode": "960"
+    },
+    {
+        "name": "Франк КФА ВСЕАО",
+        "code": "XOF",
+        "digitalCode": "952"
+    },
+    {
+        "name": "Франк КФП",
+        "code": "XPF",
+        "digitalCode": "953"
+    },
+    {
+        "name": "Йеменский риал",
+        "code": "YER",
+        "digitalCode": "886"
+    },
+    {
+        "name": "Рэнд",
+        "code": "ZAR",
+        "digitalCode": "710"
+    },
+    {
+        "name": "Замбийская квача",
+        "code": "ZMW",
+        "digitalCode": "967"
+    },
+    {
+        "name": "Доллар Зимбабве",
+        "code": "ZWL",
+        "digitalCode": "932"
+    },
+    {
+        "name": "Египетский фунт",
+        "code": "EGP",
+        "digitalCode": "818"
+    },
+    {
+        "name": "Замбийская квача",
+        "code": "ZMK",
+        "digitalCode": "894"
+    }
+]
